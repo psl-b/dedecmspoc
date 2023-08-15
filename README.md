@@ -17,6 +17,8 @@ echo 'ok';
 4. Accessing Payload
 5. A Trojan file will be generated in the directory to access executable commands
 
+There is a detailed process in the usage details.pdf
+
 
 
 
