@@ -1,3 +1,5 @@
+This version of dedecms<=DedeCMS V5.7.110
+
 1. Use the default account password admin to log in to the backend. Currently, the latest version (August 15, 2023)
 2. To remove system disabled functions
 3. Upload Payload at the file upload location:
